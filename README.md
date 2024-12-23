@@ -27,9 +27,9 @@ Desarrollar un **modelo robusto y eficiente** que permita predecir con precisió
 ---
 
 ## 📦 Resultados Clave  
-- **RMSE en Entrenamiento:** 2.93  
-- **RMSE en Validación:** 3.20  
-- **RMSE en Pruebas (Kaggle):** 3.24  
+- **RMSE en Entrenamiento:** 1.88  
+- **RMSE en Validación:** 2.12  
+- **RMSE en Pruebas (Kaggle):** 2.12  
 
 ---
 
