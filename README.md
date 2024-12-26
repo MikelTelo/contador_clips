@@ -1,7 +1,7 @@
 # 📊 Conteo de Clips mediante Visión Artificial con Redes Neuronales Convolucionales (CNN)
 
 ## 🚀 Descripción del Proyecto  
-Este proyecto utiliza una **Red Neuronal Convolucional (CNN)** para contar el **número de clips en imágenes** mediante técnicas avanzadas de **Machine Learning** y **Visión Artificial**. A través de un modelo entrenado en un dataset con más de **12,000 imágenes etiquetadas**, se ha logrado alcanzar un **RMSE de 2**, lo que representa un error promedio de **solo 2 clips por imagen**.
+Este proyecto utiliza una **Red Neuronal Convolucional (CNN)** para contar el **número de clips en imágenes** mediante técnicas avanzadas de **Machine Learning** y **Visión Artificial**. A través de un modelo entrenado en un dataset con más de **12,000 imágenes etiquetadas**, se ha logrado alcanzar un **RMSE de 1,72**, lo que representa un error promedio de **solo 1,72 clips por imagen**.
 
 ---
 
@@ -27,9 +27,9 @@ Desarrollar un **modelo robusto y eficiente** que permita predecir con precisió
 ---
 
 ## 📦 Resultados Clave  
-- **RMSE en Entrenamiento:** 1.88  
-- **RMSE en Validación:** 2.12  
-- **RMSE en Pruebas (Kaggle):** 2.12  
+- **RMSE en Entrenamiento:** 0.87  
+- **RMSE en Validación:** 1.72  
+- **RMSE en Pruebas (Kaggle):** 1.72  
 
 ---
 
